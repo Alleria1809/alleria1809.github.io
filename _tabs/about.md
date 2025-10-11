@@ -26,12 +26,11 @@ I'm an **Applied Scientist** at **Twitch**, specializing in developing live stre
 🕵️‍♀️: I enjoy reading Agatha Christine's detective stories.
 
 🐈: I adopted Luna, a female gray&white domestic shorthair in April, 2024.
-![Luna](/assets/img/luna.jpg)
+<!-- ![Luna](/assets/img/luna.jpg) -->
+<img src="/assets/img/luna.jpg" alt="Luna" width="250"/>
 
 🎮: I'm a fan of a video game called DOTA2.
-![DOTA2](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*5jntDOf_Lt2lSxMaK0tOAA.jpeg)
-
-<img src="/assets/img/luna.jpg" alt="Luna" width="250"/>
+<!-- ![DOTA2](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*5jntDOf_Lt2lSxMaK0tOAA.jpeg) -->
 <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*5jntDOf_Lt2lSxMaK0tOAA.jpeg" alt="DOTA2" width="300"/>
 
 
