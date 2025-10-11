@@ -18,10 +18,10 @@ Recommendation Systems, Search Algorithms, Multi-Objective Optimization, Persona
 
 ## PROFESSIONAL EXPERIENCE
 **Applied Scientist (Recommendation, Search, MTL, LLM) @ Twitch (_Sep 2024 - Present_)**
-- Optimize Twitch’s live-stream recommendation algorithms across multiple product goals by developing end-to-end deep-learning ranking models, addressing data sparsity, and leading large-scale A/B experiments.
+- Optimize Twitch’s **live-stream recommendation algorithms** across multiple product goals by developing end-to-end deep-learning ranking models, addressing data sparsity, and leading large-scale A/B experiments.
 - Design micro-targeting and debiasing strategies through user-segment-aware multi-model training and calibrated new-user utility functions.
-- Lead ranker iterations introducing segment-weighted loss, curriculum learning, and multi-task learning (MTL) frameworks such as the Multi-Gate Mixture-of-Experts (MMoE).
-- Enhance Twitch’s search experience through LLM-based query understanding and reformulation.
+- Lead ranker iterations introducing segment-weighted loss, curriculum learning, and **multi-task learning (MTL)** frameworks such as the Multi-Gate Mixture-of-Experts (MMoE).
+- Enhance Twitch’s search experience through **LLM-based query understanding and reformulation**.
 
 **Machine Learning Engineer (Generative AI, Search Engineering, RAG) @ SylphAI Inc. (_Apr 2024 - Aug 2024_)**
 - Developed a GenAI chatbot search engine **(RAG)** by embedding texts, indexing, creating the retriever system, ranking and generating candidate-specific answers.

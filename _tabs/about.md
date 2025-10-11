@@ -7,13 +7,7 @@ title: About Me
 
 ## Hi, I'm Xiaoyi (Alleria) Gu 👩‍💻
 
-I'm an **Applied Scientist** at **Twitch**, specializing in developing live stream **Recommendation Systems** using **ML/DL/NLP**.
-
-## My Career Path:
-- **High School**: English Interpreter
-- **Undergraduate**: Business Analyst
-- **Master**: Data Scientist/Machine Learning
-- **After Master**: Recommendation/Search/LLM
+I'm an **Applied Scientist** at **Twitch**, specializing in developing live stream **Recommendation Systems** using **LLM/ML/DL/NLP**.
 
 ## Projects
 - [**AldaFlow**](https://github.com/SylphAI-Inc/AdalFlow): Contributed to the open-source library to build & auto-optimize any LLM tasks.
