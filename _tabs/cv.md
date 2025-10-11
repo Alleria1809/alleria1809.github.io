@@ -13,21 +13,26 @@ permalink: /cv/
 - **B.S., Information Management and Information Systems** | Beijing Foreign Studies University, Beijing, China (_Jun 2021_)
     - **Awards**: National Scholarship (top 0.2%), Merit Student, Beijing Outstanding Graduates
 
+## RESEARCH INTERESTS
+Recommendation Systems, Search Algorithms, Multi-Objective Optimization, Personalization, Large Language Models
+
 ## PROFESSIONAL EXPERIENCE
+**Applied Scientist (Recommendation, Search, MTL, LLM) @ Twitch (_Sep 2024 - Present_)**
+- Optimize Twitch’s live-stream recommendation algorithms across multiple product goals by developing end-to-end deep-learning ranking models, addressing data sparsity, and leading large-scale A/B experiments.
+- Design micro-targeting and debiasing strategies through user-segment-aware multi-model training and calibrated new-user utility functions.
+- Lead ranker iterations introducing segment-weighted loss, curriculum learning, and multi-task learning (MTL) frameworks such as the Multi-Gate Mixture-of-Experts (MMoE).
+- Enhance Twitch’s search experience through LLM-based query understanding and reformulation.
+
 **Machine Learning Engineer (Generative AI, Search Engineering, RAG) @ SylphAI Inc. (_Apr 2024 - Aug 2024_)**
 - Developed a GenAI chatbot search engine **(RAG)** by embedding texts, indexing, creating the retriever system, ranking and generating candidate-specific answers.
 - Built, trained and fine-tuned **deep learning** classifiers using PyTorch.
 - Created high-quality data labels utilizing **Large Language Models**(Mistral-7B, GPT-4, and Gemini) with few-shot Prompt Engineering and designed an efficient ETL pipeline to manage data on AWS RDS.
-- Implemented agent framework from research with function calls and contributed to an open-source **LLM library** AdalFlow (GitHub 1k+ stars).
+- Implemented agent framework from research with function calls and contributed to an open-source **LLM library** AdalFlow (GitHub 3k+ stars).
 
 **Data Scientist Intern @ Adobe Inc. (_May 2023 – Aug 2023_)**
 - Spearheaded **cancellation analysis** and identify cancellation patterns, optimizing the user journey.
 - Innovated a product **marketing strategy** with an estimated 10% conversion rate improvement and an $8.3M annual recurring revenue (ARR) lift by deep diving on 5+ metrics using 5M+ data to support decision-making.
 - Built a **Logistic Regression** and an **XGBoost model** with feature engineering to analyze the important and significant factors that lead to cancellation on 3M data processed by SQL.
-
-**Data Scientist Intern @ HireBeat Inc. (_May 2022 – Jul 2022_)**
-- Led a project to preprocess candidates’ resumes by extracting key qualifications, and vectorized text features with **TF-IDF**.
-- Implemented an end-to-end pipeline for classifying resumes by ensembling **Neural Networks, Tree-Based models, Naive Bayes**, and **SVM** with tuned hyperparameters, boosting accuracy by 15% compared to the KNN baseline.
 
 ## PROJECTS
 ### Los Angeles Restaurant Heath Inspection and Recommendation
