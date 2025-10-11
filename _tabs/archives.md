@@ -2,10 +2,10 @@
 layout: page
 icon: fas fa-archive
 order: 3
-title: Medium Posts
+title: Archives
 ---
 
-
+# Medium Posts
 ## [Implementing Text Chunking for LLMs](https://medium.com/gopenai/implementing-text-chunking-for-llms-98b669606f3f)
 **TL;DR**
 
