@@ -45,7 +45,6 @@ Recommendation Systems, Search Algorithms, Multi-Objective Optimization, Persona
 [Article](https://medium.com/@xiaoyigu/data-science-for-dota2-part-1-data-collection-55d7d7cb07c1)
 - Predicted the winning camps of the video game DOTA2 with 16K+ matches crawled by Selenium and Scrapy.
 - Researched on DOTA2 winning prediction papers and applied **HIN2Vec graph embedding** to transform the hero relationships into features. Conducted feature engineering and built a set of predictors such as XGBoost (F1 Score 0.64).
-![DOTA2](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*5jntDOf_Lt2lSxMaK0tOAA.jpeg)
 
 ### Job Recommendation System Based on Knowledge Graph
 [Video](https://www.youtube.com/watch?v=EczX-wm0GMc)

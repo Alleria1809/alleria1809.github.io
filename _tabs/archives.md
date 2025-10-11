@@ -1,7 +1,8 @@
 ---
-layout: archives
+layout: page
 icon: fas fa-archive
 order: 3
+title: Medium Posts
 ---
 
 # Medium Posts
