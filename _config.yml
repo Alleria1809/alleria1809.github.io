@@ -16,7 +16,7 @@ timezone:
 
 title: Xiaoyi (Alleria) Gu # the main title
 
-tagline: 📍 San Francisco, CA | Applied ML Scientist | Recommender Systems | Multi-Objective Optimization | LLM Systems # it will display as the subtitle
+tagline: "📍 San Francisco, CA <br> Applied ML Scientist @ Twitch"
 
 description: >- # used by seo meta and the atom feed
   A Recommender/Search Applied Scientist, experienced in Large Language Models(LLMs), NLP, machine learning, deep learning and data science.

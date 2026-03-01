@@ -4,61 +4,223 @@ title: "Xiaoyi (Alleria) Gu"
 permalink: /
 ---
 
-Applied Scientist at **Twitch (Amazon)**  
-Specializing in **Large-Scale Recommendation / Search Systems, Multi-Objective Optimization, and LLM-powered Personalization**
+<style>
+  main article .content {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+    color: #111 !important;
 
-[LinkedIn](https://www.linkedin.com/in/alleria1809/) | [GitHub](https://github.com/Alleria1809) | [CV](/cv/) | [Google Scholar](https://scholar.google.com/citations?user=eKXmU18AAAAJ&hl=en)
+    font-size: 0.95rem !important;   /* slightly smaller */
+    line-height: 1.65 !important;    /* keep readability */
+  }
+
+  main article .content p,
+  main article .content li {
+    font-weight: 400 !important;
+  }
+
+  main article .content h1,
+  main article .content h2,
+  main article .content h3 {
+    font-weight: 600 !important;
+  }
+
+  main article .content a,
+  main article .content a i {
+    color: #111 !important;
+  }
+
+  main article .content > p:first-of-type {
+    margin-bottom: 0.5rem !important;
+  }
+
+  main article .content h2 {
+    font-size: 1.35rem !important;
+  }
+
+  main article .content .pub-section {
+    margin-top: 1.5rem;
+  }
+
+  main article .content .pub-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    margin-top: 1rem;
+  }
+
+  main article .content .pub-item {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 1.1rem;
+    align-items: start;
+  }
+
+  main article .content .pub-thumb {
+    width: 220px;
+    aspect-ratio: 16 / 9;
+    border: 1px solid rgba(0,0,0,0.08);
+    border-radius: 10px;
+    overflow: hidden;
+    background: #fff;
+  }
+
+  main article .content .pub-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  main article .content .pub-title {
+    font-weight: 600;
+    margin: 0 0 0.25rem 0;
+    line-height: 1.3;
+  }
+
+  main article .content .pub-authors {
+    margin: 0 0 0.55rem 0;
+    color: rgba(0,0,0,0.72) !important;
+    font-size: 0.95em;
+  }
+
+  main article .content .pub-venue {
+    margin: 0 0 0.65rem 0;
+    color: rgba(0,0,0,0.62) !important;
+    font-size: 0.95em;
+  }
+
+  main article .content .pub-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  main article .content .pub-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.38rem 0.65rem;
+    border: 1px solid rgba(0,0,0,0.22);
+    border-radius: 8px;
+    text-decoration: none !important;
+    color: #111 !important;
+    font-size: 0.92em;
+    font-weight: 500;
+  }
+
+  main article .content .pub-btn:hover {
+    border-color: rgba(0,0,0,0.35);
+    background: rgba(0,0,0,0.03);
+  }
+
+  /* Mobile: stack thumbnail above text */
+  @media (max-width: 700px) {
+    main article .content .pub-item {
+      grid-template-columns: 1fr;
+    }
+    main article .content .pub-thumb {
+      width: 100%;
+    }
+  }
+</style>
+
+
+<p style="font-size: 1;">
+  Applied Scientist at <strong>Twitch (Amazon)</strong>
+  <span style="margin-left: 15px;">
+    <a href="https://www.linkedin.com/in/alleria1809/" target="_blank">
+      <i class="fab fa-linkedin fa-lg"></i>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Alleria1809" target="_blank">
+      <i class="fab fa-github fa-lg"></i>
+    </a>
+    &nbsp;&nbsp;
+    <a href="/cv/" target="_blank">
+      <i class="fas fa-file-alt fa-lg"></i>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://scholar.google.com/citations?user=eKXmU18AAAAJ&hl=en" target="_blank">
+      <i class="fas fa-graduation-cap fa-lg"></i>
+    </a>
+  </span>
+</p>
 
 ---
 
-## About Me
+## **About Me**
+<!-- Specializing in **Large-Scale Recommendation / Search Systems, Multi-Objective Optimization, and LLM-powered Personalization** -->
 
-I design and optimize large-scale live-stream ranking systems serving millions of users.  
-My work focuses on aligning offline modeling with real-world product metrics through multi-objective optimization, segment-aware modeling, and large-scale A/B experimentation.
+I design and optimize large-scale live-stream ranking systems serving millions of users. My work focuses on aligning offline modeling with real-world product metrics through multi-objective optimization, segment-aware modeling, and large-scale A/B experimentation.
 
 I am particularly interested in:
 - Multi-objective learning in recommender systems
 - Personalization & search systems
-- User-segment-aware modeling
 - LLM-assisted ranking and retrieval
-- Alignment & evaluation of generative models
+- RAG systems and agents
 
 ---
 
-## Professional Experience
+## **Professional Experience**
 
-### Twitch Interactive Inc. (Amazon) — Applied Scientist (Sep 2024 – Present)
+### **Twitch (Amazon) — Applied Scientist (Sep 2024 – Present)**
 
-- Led multi-objective deep learning ranker optimization across commerce, follow, and watch-time metrics
+- Led multi-objective deep learning ranker optimization across user behaviors and product goals
 - Designed segment-aware multi-model architecture (MTL, MMoE, curriculum learning)
 - Improved DAU, Follow, and Watch metrics via weighted utility optimization
 - Conducted large-scale A/B experiments and aligned offline evaluation with product goals
 
-### SylphAI — Machine Learning Engineer (Apr 2024 – Aug 2024)
+### **SylphAI — Machine Learning Engineer (Apr 2024 – Aug 2024)**
 
-- Built RAG-based chatbot search engine (recall 0.94)
-- Developed BERT-based ranking system and LLM-powered labeling pipeline
-- Contributed to open-source LLM framework (AdalFlow, 3.3k+ stars)
+- Built RAG and ReAct agent based chatbot search engine
+- Contributed to open-source LLM framework ([AdalFlow](https://github.com/SylphAI-Inc/AdalFlow))
 
 ---
 
-## Education
+## **Education**
 
 **University of Southern California**  
 M.S. in Applied Data Science (GPA: 3.92/4.0)
 
 **Beijing Foreign Studies University**  
 B.M. in Information Management (GPA: 3.97/4.0)  
-National Scholarship (Top 1%)
+National Scholarship; First Class Scholarship; Merit Student <br> 
+2021 Beijing Outstanding College Graduate
 
 ---
 
-## Selected Research
+<!-- ## **Selected Research**
 
 **Video Generation Models: A Survey of Post-Training and Alignment**  
 Under Review at TMLR (2026)  
-[TechRxiv link here]
+[TechRxiv link here] -->
 
-This work provides the first systematic taxonomy of post-training alignment methods in video generation, covering supervised fine-tuning, preference-based RL, distillation, and inference-time alignment.
+<div class="pub-section">
+  <h2>Selected Research</h2>
 
+  <div class="pub-list">
+    <!-- Paper 1 -->
+    <div class="pub-item">
+      <div class="pub-thumb">
+        <!-- Put your thumbnail here (local is best) -->
+        <img src="/assets/img/pubs/survey.png" alt="Survey thumbnail">
+      </div>
+
+      <div>
+        <div class="pub-title">Video Generation Models: A Survey of Post-Training and Alignment</div>
+        <div class="pub-authors">..., Xiaoyi Gu, ...</div>
+        <div class="pub-venue">Under review at TMLR (2026)</div>
+
+        <div class="pub-links">
+          <a class="pub-btn" href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.177220111.17351887/v1" target="_blank" rel="noopener">
+            <i class="fa-solid fa-file-lines"></i> TechRxiv
+          </a>
+          <a class="pub-btn" href="https://github.com/CyL97/Awesome-Video-Generation-Post-Training/tree/main" target="_blank" rel="noopener">
+            <i class="fa-brands fa-github"></i> GitHub
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 ---
