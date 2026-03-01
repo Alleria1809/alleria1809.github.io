@@ -1,43 +1,64 @@
 ---
 layout: page
-title: "Home"
+title: "Xiaoyi (Alleria) Gu"
 permalink: /
 ---
 
-<h2>Hi, I'm Xiaoyi (Alleria) Gu 👩‍💻</h2>
+Applied Scientist at **Twitch (Amazon)**  
+Specializing in **Large-Scale Recommendation / Search Systems, Multi-Objective Optimization, and LLM-powered Personalization**
 
-<p>
-I'm an <strong>Applied Scientist</strong> at <strong>Twitch</strong>,
-specializing in live-stream <strong>Recommendation and Search Systems</strong>
-powered by <strong>LLMs and Multi-Objective Optimization</strong>.
-</p>
+[LinkedIn](https://www.linkedin.com/in/alleria1809/) | [GitHub](https://github.com/Alleria1809) | [CV](/cv/) | [Google Scholar](https://scholar.google.com/citations?user=eKXmU18AAAAJ&hl=en)
 
-<p>
-Welcome to my personal website — feel free to explore my
-<a href="/cv/">CV</a> or <a href="/archives/">Medium Posts</a>.
-</p>
+---
 
-<hr/>
+## About Me
 
-## Projects
-- [**AldaFlow**](https://github.com/SylphAI-Inc/AdalFlow): Contributed to the open-source library to build & auto-optimize any LLM tasks.
-- [**Draft-Based DOTA2 Winning Camp Prediction**](https://medium.com/@xiaoyigu/data-science-for-dota2-part-1-data-collection-55d7d7cb07c1). Predicted the winning camps of the video game DOTA2 with 16K+ matches using feature engineering and machine learning (*HIN2Vec graph embedding*, *Tree-based models*).
-- [**Los Angeles Restaurant Health Inspection and Recommendation**](https://www.youtube.com/watch?v=oiM0AO_HvLQ): Developed a system identifying risky restaurants based on Yelp and LA Open Data (*Prediction*, *Clustering*).
-- [**Job Recommendation System Based on Knowledge Graph**](https://www.youtube.com/watch?v=EczX-wm0GMc): Built a recommendation system utilizing knowledge graphs to recommend jobs (*fine-tuned BERT*).
+I design and optimize large-scale live-stream ranking systems serving millions of users.  
+My work focuses on aligning offline modeling with real-world product metrics through multi-objective optimization, segment-aware modeling, and large-scale A/B experimentation.
 
-## Skills
-- Python, TensorFlow, PyTorch  
-- Machine Learning, Deep Learning, NLP, LLM, Data Science  
-- Audio Processing, Multimodal Systems, Knowledge Graphs  
+I am particularly interested in:
+- Multi-objective learning in recommender systems
+- Personalization & search systems
+- User-segment-aware modeling
+- LLM-assisted ranking and retrieval
+- Alignment & evaluation of generative models
 
-## Hobbies & Interests
-👩‍🎓: I love to apply AI/ML/DL/LLM to real-world projects and explore latest scientific content.
+---
 
-🕵️‍♀️: I enjoy reading Agatha Christie’s detective stories.
+## Professional Experience
 
-🐈: I adopted Luna, a female gray&white domestic shorthair in April, 2024.  
-<img src="/assets/img/luna.jpg" alt="Luna" width="250"/>
+### Twitch Interactive Inc. (Amazon) — Applied Scientist (Sep 2024 – Present)
 
-🎮: I'm a fan of a video game called DOTA2.  
-<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*5jntDOf_Lt2lSxMaK0tOAA.jpeg" alt="DOTA2" width="300"/>
+- Led multi-objective deep learning ranker optimization across commerce, follow, and watch-time metrics
+- Designed segment-aware multi-model architecture (MTL, MMoE, curriculum learning)
+- Improved DAU, Follow, and Watch metrics via weighted utility optimization
+- Conducted large-scale A/B experiments and aligned offline evaluation with product goals
 
+### SylphAI — Machine Learning Engineer (Apr 2024 – Aug 2024)
+
+- Built RAG-based chatbot search engine (recall 0.94)
+- Developed BERT-based ranking system and LLM-powered labeling pipeline
+- Contributed to open-source LLM framework (AdalFlow, 3.3k+ stars)
+
+---
+
+## Education
+
+**University of Southern California**  
+M.S. in Applied Data Science (GPA: 3.92/4.0)
+
+**Beijing Foreign Studies University**  
+B.M. in Information Management (GPA: 3.97/4.0)  
+National Scholarship (Top 1%)
+
+---
+
+## Selected Research
+
+**Video Generation Models: A Survey of Post-Training and Alignment**  
+Under Review at TMLR (2026)  
+[TechRxiv link here]
+
+This work provides the first systematic taxonomy of post-training alignment methods in video generation, covering supervised fine-tuning, preference-based RL, distillation, and inference-time alignment.
+
+---

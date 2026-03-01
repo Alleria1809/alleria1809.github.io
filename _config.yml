@@ -16,7 +16,7 @@ timezone:
 
 title: Xiaoyi (Alleria) Gu # the main title
 
-tagline: Applied ML Scientist | Recommender Systems | Multi-Objective Optimization | LLM Systems # it will display as the subtitle
+tagline: 📍 San Francisco, CA | Applied ML Scientist | Recommender Systems | Multi-Objective Optimization | LLM Systems # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A Recommender/Search Applied Scientist, experienced in Large Language Models(LLMs), NLP, machine learning, deep learning and data science.
@@ -147,7 +147,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+# paginate: 10
 
 # The base URL of your site
 baseurl: ""
@@ -215,12 +215,12 @@ exclude:
   - "*.config.js"
   - package*.json
 
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
+# jekyll-archives:
+#   enabled: [categories, tags]
+#   layouts:
+#     category: category
+#     tag: tag
+#   permalinks:
+#     tag: /tags/:name/
+#     category: /categories/:name/
 
