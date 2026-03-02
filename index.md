@@ -188,8 +188,6 @@ B.M. in Information Management (GPA: 3.97/4.0)
 National Scholarship; First Class Scholarship; Merit Student <br> 
 2021 Beijing Outstanding College Graduate -->
 
----
-
 <!-- ## **Selected Research**
 
 **Video Generation Models: A Survey of Post-Training and Alignment**  
