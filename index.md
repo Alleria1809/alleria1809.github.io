@@ -151,7 +151,7 @@ permalink: /
 ## **About Me**
 <!-- Specializing in **Large-Scale Recommendation / Search Systems, Multi-Objective Optimization, and LLM-powered Personalization** -->
 
-I design and optimize large-scale live-stream ranking systems serving millions of users. My work focuses on aligning offline modeling with real-world product metrics through multi-objective optimization, segment-aware modeling, and large-scale A/B experimentation.
+I'm an Applied Scienst in Twitch's Community Discovery Team, designing end-to-end ML pipelines and optimizing large-scale live-stream ranking systems serving millions of users. Before entering the industry, I got my Master's degree in Applied Data Science at USC.
 
 I am particularly interested in:
 - Multi-objective learning in recommender systems
@@ -175,7 +175,7 @@ I am particularly interested in:
 - Contributed to open-source LLM framework ([AdalFlow](https://github.com/SylphAI-Inc/AdalFlow))
 
 ---
-
+<!-- 
 ## **Education**
 
 **University of Southern California**  
@@ -184,7 +184,7 @@ M.S. in Applied Data Science (GPA: 3.92/4.0)
 **Beijing Foreign Studies University**  
 B.M. in Information Management (GPA: 3.97/4.0)  
 National Scholarship; First Class Scholarship; Merit Student <br> 
-2021 Beijing Outstanding College Graduate
+2021 Beijing Outstanding College Graduate -->
 
 ---
 
@@ -202,7 +202,7 @@ Under Review at TMLR (2026)
     <div class="pub-item">
       <div class="pub-thumb">
         <!-- Put your thumbnail here (local is best) -->
-        <img src="/assets/img/pubs/survey.png" alt="Survey thumbnail">
+        <img src="/assets/img/pubs/teaser.png" alt="Survey thumbnail">
       </div>
 
       <div>
