@@ -165,10 +165,11 @@ I am particularly interested in:
 
 ### **Twitch (Amazon) — Applied Scientist (Sep 2024 – Present)**
 
-- Led multi-objective deep learning ranker optimization across user behaviors and product goals
-- Designed segment-aware multi-model architecture (MTL, MMoE, curriculum learning)
-- Improved DAU, Follow, and Watch metrics via weighted utility optimization
-- Conducted large-scale A/B experiments and aligned offline evaluation with product goals
+- Lead large-scale multi-objective optimization for live-stream ranking systems, adapting research methodology to production systems and improving multiple product metrics simultaneously.
+- Build and deploy end-to-end ML pipelines, addressing data quality, model training, offline evaluation, and large-scale A/B experimentation.
+- Design segment-aware multi-model architectures (MTL, MMoE, curriculum learning).
+- Improve DAU, Follow, and Watch metrics through weighted utility optimization.
+- Conduct large-scale A/B experiments and align offline evaluation with product metrics.
 
 ### **SylphAI — Machine Learning Engineer (Apr 2024 – Aug 2024)**
 
