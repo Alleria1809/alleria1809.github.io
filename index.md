@@ -151,7 +151,9 @@ permalink: /
 ## **About Me**
 <!-- Specializing in **Large-Scale Recommendation / Search Systems, Multi-Objective Optimization, and LLM-powered Personalization** -->
 
-I'm an Applied Scienst in Twitch's Community Discovery Team, designing end-to-end ML pipelines and optimizing large-scale live-stream ranking systems serving millions of users. Before entering the industry, I got my Master's degree in Applied Data Science at USC.
+I am an Applied Scientist on Twitch’s Community Discovery team, designing end-to-end ML systems and optimizing large-scale live-stream ranking models serving millions of users. My work centers on segment-aware multi-objective ranking and search recommendations.
+
+Before entering industry, I earned my M.S. in Applied Data Science from the University of Southern California.
 
 I am particularly interested in:
 - Multi-objective learning in recommender systems
